@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @0Ze0Ro0
+- 🎓 I graduated from the Faculty of Agriculture, Ain Shams University
+- 👀 I’m interested in Anime, manga, novels, learning programming languages ​​and reading
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me :
+- 1-WhatsApp: +201149428538
+- 2- FaceBook: https://www.facebook.com/AklZeRo
+- 3- LinkedIn: https://www.linkedin.com/in/abdelrahman-alkourdi-695349250/
