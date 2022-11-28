@@ -3,7 +3,7 @@
 
   - 🌱 I’m currently learning **JavaScript**
   - 👨‍💻 All of my projects are available at
-  [https://www.ak-zero.com)
+  [www.ak-zero.com]
   - 📫 How to reach me **ak.zero301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
