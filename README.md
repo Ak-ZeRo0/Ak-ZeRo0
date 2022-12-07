@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Alkurdi</h1>
-https://readme-typing-svg.demolab.com/?Frontend_Developer=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg
 
   - 🌱 I’m currently learning **JavaScript**
   - 👨‍💻 All of my projects are available at
