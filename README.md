@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Alkurdi</h1>
+<h1 align="center">Hi 👋, I'm  Abdul Rahman Al-kurdi</h1>
 
   - 🌱 I’m currently learning **JavaScript**
   - 👨‍💻 All of my projects are available at
