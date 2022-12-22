@@ -33,7 +33,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://codepen.io/Ak-ZeRo0" target="_blank">
+  <a href="https://codepen.io/Ak-ZeRo" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
     alt="Ak-ZeRo0" 
     height="30" 
